@@ -1,0 +1,7 @@
+Ejercicio 2
+Ejecución del Ejercicio 1 - Calculadora
+Introduzca el primer número: 
+2
+Introduzca el segundo número: 
+5
+La suma de los números introducidos es: 7

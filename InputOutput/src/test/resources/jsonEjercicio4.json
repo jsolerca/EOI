@@ -1,0 +1,77 @@
+[
+  {
+    "nombre": "A",
+    "apellidos": "X",
+    "edad": 31,
+    "notas": [
+      {
+        "calificacion": 5.0,
+        "asignatura": {
+          "nombre": "Matemáticas"
+        }
+      },
+      {
+        "calificacion": 4.9,
+        "asignatura": {
+          "nombre": "Inglés"
+        }
+      },
+      {
+        "calificacion": 4.0,
+        "asignatura": {
+          "nombre": "Física"
+        }
+      }
+    ]
+  },
+  {
+    "nombre": "E",
+    "apellidos": "Y",
+    "edad": 30,
+    "notas": [
+      {
+        "calificacion": 5.0,
+        "asignatura": {
+          "nombre": "Matemáticas"
+        }
+      },
+      {
+        "calificacion": 4.9,
+        "asignatura": {
+          "nombre": "Inglés"
+        }
+      },
+      {
+        "calificacion": 4.0,
+        "asignatura": {
+          "nombre": "Física"
+        }
+      }
+    ]
+  },
+  {
+    "nombre": "I",
+    "apellidos": "Z",
+    "edad": 31,
+    "notas": [
+      {
+        "calificacion": 5.0,
+        "asignatura": {
+          "nombre": "Matemáticas"
+        }
+      },
+      {
+        "calificacion": 4.9,
+        "asignatura": {
+          "nombre": "Inglés"
+        }
+      },
+      {
+        "calificacion": 4.0,
+        "asignatura": {
+          "nombre": "Física"
+        }
+      }
+    ]
+  }
+]
