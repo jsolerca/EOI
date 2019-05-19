@@ -3,10 +3,10 @@ package es.eoi.springboot.repository;
 import org.springframework.stereotype.Repository;
 
 @Repository
-public class AlumnoRepositoryImpl implements AlumnoRepository {
+public class HelloWorldRepositoryImpl implements HelloWorldRepository {
 
-	public String getNombre() {
-		return "Javi";
+	public String saluda() {
+		return "Hola";
 	}
 
 }
